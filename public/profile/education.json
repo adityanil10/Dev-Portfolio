@@ -1,19 +1,25 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Aug 2020 - Present",
+            "cardTitle": "B.Tech, Computer Science and Engineering",
+            "cardSubtitle":"Govt. Model Engineering College, Thrikkakkara",
+            "cardDetailedText": "CGPA - 8.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/logo.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jun 2020",
+            "cardTitle": "Senior Secondary Education",
+            "cardSubtitle":"Saraswathi Vidyanikethan Public School, Elamakkara",
+            "cardDetailedText": "Marks - 92.8%"
+        },
+        {
+            "title": "Jun 2018",
+            "cardTitle": "Secondary School",
+            "cardSubtitle":"Rajashree S M Memorial School, East Kadungalloor",
+            "cardDetailedText": "Marks - 87%"
         }
     ]
 }
